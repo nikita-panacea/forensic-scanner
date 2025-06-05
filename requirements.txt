@@ -1,0 +1,6 @@
+elasticsearch==8.13.0
+pdfplumber
+python-docx
+presidio-analyzer
+presidio-anonymizer
+streamlit
