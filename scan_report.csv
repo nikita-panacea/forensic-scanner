@@ -1,0 +1,36 @@
+timestamp,file,label,start,end,match
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test1.docx,DOCX,222,241,4411 3344 3456 8907
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test1.docx,DOCX,271,290,5554-5676-7891-9087
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,291,310,4111 1111 1111 1111
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,311,330,4111 1111 1111 1111
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,331,350,5555 5555 5555 4444
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,351,370,5555 5555 5555 4444
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,371,390,5105 1051 0510 5100
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,391,410,5105 1051 0510 5100
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,411,428,3782 822463 10005
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,429,446,3782 822463 10005
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,447,466,6011 1111 1111 1117
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,467,486,6011 1111 1111 1117
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,487,506,3530 1113 3330 0000
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,507,526,3530 1113 3330 0000
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,222,241,4411 3344 3456 8907
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\docx_test2.docx,DOCX,271,290,5554-5676-7891-9087
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\pdf_test1.pdf,PDF page 1,220,239,4411 3344 3456 8907
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\pdf_test1.pdf,PDF page 1,269,288,5554-5676-7891-9087
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\pdf_test2.pdf,PDF page 1,289,308,4111 1111 1111 1111
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\pdf_test2.pdf,PDF page 1,220,239,4411 3344 3456 8907
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\pdf_test2.pdf,PDF page 1,269,288,5554-5676-7891-9087
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\pdf_test2.pdf,PDF page 1,309,324,5555 5555 5555 
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\pdf_test2.pdf,PDF page 1,327,342,5105 1051 0510 
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\pdf_test2.pdf,PDF page 1,362,377,6011 1111 1111 
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\pdf_test2.pdf,PDF page 1,380,395,3530 1113 3330 
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test1.txt,TXT,220,239,4411 3344 3456 8907
+2025-06-09T15:44:49,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test1.txt,TXT,269,288,5554-5676-7891-9087
+2025-06-09T15:44:50,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test2.txt,TXT,289,308,4111 1111 1111 1111
+2025-06-09T15:44:50,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test2.txt,TXT,309,328,5555 5555 5555 4444
+2025-06-09T15:44:50,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test2.txt,TXT,329,348,5105 1051 0510 5100
+2025-06-09T15:44:50,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test2.txt,TXT,349,366,3782 822463 10005
+2025-06-09T15:44:50,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test2.txt,TXT,367,386,6011 1111 1111 1117
+2025-06-09T15:44:50,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test2.txt,TXT,387,406,3530 1113 3330 0000
+2025-06-09T15:44:50,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test2.txt,TXT,220,239,4411 3344 3456 8907
+2025-06-09T15:44:50,C:\Users\nikit\OneDrive - Panacea InfoSec Pvt. Ltd\Panacea_Infosec\forensic_scanner\cc_scanner\sample_docs\text_test2.txt,TXT,269,288,5554-5676-7891-9087

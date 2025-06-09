@@ -1,0 +1,36 @@
+Electricity Bill
+3000
+Electricity Bill 2
+3000
+Gas Bill
+1000
+Cook+Maid
+7000
+Intenet
+3000
+Diesel
+10000
+Maintenance
+9000
+Grocery
+5000
+Fruits
+2000
+Milk
+2000
+Milk 2
+3000
+Grocery 2
+20000
+Car Service
+3000
+This is a sample file
+4411 3344 3456 8907
+And then there is mastercard
+5554-5676-7891-9087
+4111 1111 1111 1111
+5555 5555 5555 4444
+5105 1051 0510 5100
+3782 822463 10005
+6011 1111 1111 1117
+3530 1113 3330 0000

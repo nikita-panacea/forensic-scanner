@@ -1,6 +1,38 @@
-elasticsearch==8.13.0
 pdfplumber
+streamlit
+PyMuPDF
 python-docx
+python-pptx
+beautifulsoup4
+lxml
+openpyxl
+pandas
+ebooklib
+odfpy
+extract-msg
+pytesseract
+Pillow
 presidio-analyzer
 presidio-anonymizer
-streamlit
+spacy
+regex
+tqdm
+
+# python -m spacy download en_core_web_lg
+# en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0.tar.gz
+
+# pandas                # CSV, Excel
+# presidio-analyzer     # PII detection
+# presidio-anonymizer   # (optional) anonymization
+# spacy  - NLP processing
+
+# PDF (PyMuPDF)
+# DOCX (python-docx)
+# PPTX (python-pptx)
+# HTML (beautifulsoup4, lxml)
+# Excel (openpyxl, pandas)
+# CSV/TXT (pandas / built-in)
+# EPUB (ebooklib)
+# ODT (odfpy)
+# MSG (extract-msg)
+# Images (OCR) (pytesseract, Pillow)
