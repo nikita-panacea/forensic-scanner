@@ -24,35 +24,6 @@
 #     )
 # cc_detector.py (additions at top)
 
-import regex
-from pathlib import Path
-
-# reuse full_cc and partial_cc from existing Pattern objects, but as byte‐regex:
-BYTES_PATTERN = regex.compile(
-    rb"\b(?:(?:\d[ -]?){12}|"
-    rb"4[0-9]{3}(?:[ -]?[0-9]{4}){3}|"
-    rb"5[1-5][0-9]{2}(?:[ -]?[0-9]{4}){3}|"
-    rb"3[47][0-9]{2}(?:[ -]?[0-9]{4}){2}|"
-    rb"6(?:011|5[0-9]{2})(?:[ -]?[0-9]{4}){3})\b"
-)
-
-def quick_cc_scan(path: str, head=65536, tail=65536) -> bool:
-    """
-    Read first+last `head`/`tail` bytes of file and run a single regex search.
-    Return True if any match—else False.
-    """
-    p = Path(path)
-    size = p.stat().st_size
-    try:
-        with open(path, "rb") as f:
-            data = f.read(head)
-            if size > head + tail:
-                f.seek(size - tail)
-                data += f.read(tail)
-    except Exception:
-        return False
-    return bool(BYTES_PATTERN.search(data))
-
 
 from presidio_analyzer import AnalyzerEngine, PatternRecognizer, Pattern
 
