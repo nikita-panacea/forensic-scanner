@@ -98,7 +98,7 @@ def extract_text_from_zip(path):
     Extract all entries from the zip (or jar, odt, etc.),
     then feed each file inside back through the main extractor map.
     """
-    from run import EXTRACTORS  # avoid circular import
+    from config import EXTRACTORS  # avoid circular import
 
     with tempfile.TemporaryDirectory() as tmpdir:
         try:
